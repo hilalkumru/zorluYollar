@@ -1,4 +1,5 @@
 **AMAÇ**
+
 Oyuncu, engellere çarpmadan en uzun süre hayatta kalmaya çalışır.
 
 **OYNANIŞ**
